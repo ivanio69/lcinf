@@ -19,8 +19,8 @@ export default function Home() {
           <br />
           <p>
             I am an <b>audio and lightning engineer </b>for live performances,{" "}
-            <b>lead guitarist </b>in a metal band called "bez mamy", and I am a{" "}
-            <b>full-stack web developer </b>and <b>web designer.</b>
+            <b>lead guitarist </b>in a metal band called &quot;bez mamy&quot;,
+            and I am a <b>full-stack web developer </b>and <b>web designer.</b>
           </p>
         </div>
         <div className={styles.socials}>
